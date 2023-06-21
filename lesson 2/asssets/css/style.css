@@ -1,0 +1,13 @@
+.block{
+   color: rgb(254, 210, 202);
+   font-size: 22px;
+}
+
+div{
+   background-color: #1901669d;
+   /* height: 40px; */
+   width: 600px;
+   /* width: 80vw; view-width */
+   /* height: 20vh; view-height */
+   color: rgb(12, 246, 43);
+}
