@@ -1,0 +1,71 @@
+a {
+  text-decoration: none;
+}
+
+.header {
+  background-color: antiquewhite;
+  padding: 20px;
+}
+.menu {
+  list-style: none;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.menu-link {
+  display: inline-block;
+}
+.menu-link a {
+  margin: 0 15px;
+  color: brown;
+  font-size: 18px;
+}
+
+/************************
+****** Lesson 6 *********
+*************************/
+
+.banner {
+  background-color: rgb(11, 108, 84);
+  height: 80vh;
+  padding: 20vh 0;
+  margin-bottom: 80px;
+
+  background-image: url("./../img/pexels-photo-218863.jpeg");
+  /* background-image: url("/lesson7/assets/img/799551-nature-landscape-pixel-art-pixelated-pixels-mountains.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: bottom; */
+  /* background-attachment: fixed; */
+}
+
+.banner__content {
+  height: 40vh;
+  width: 60%;
+  margin: 0 auto;
+  color: #fff;
+  padding: 10px;
+  font-size: 1.3em;
+
+  text-align: center;
+  background-color: #65540897;
+  border-left: 15px solid green;
+  border-radius: 140px 24px 24px 24px;
+
+  /* border: 10px solid #2590f4; */
+  /* border-color: brown; */
+  /* border-width: 10px; */
+
+  /* border-style: solid; */
+  /* border-top-left-radius: 40px; */
+}
+.banner__content p {
+  margin-bottom: 60px;
+}
+
+.banner__content .banner__link {
+  text-align: center;
+  color: #fff;
+  background-color: #2590f4;
+  padding: 12px;
+}
