@@ -1,0 +1,35 @@
+body{
+    height: 200vh;
+    background-color: cornsilk;
+}
+.item {
+    width: 150px;
+    height: 150px;
+    border: 6px solid rgb(25, 100, 25);
+    border-radius: 24px;
+    /* display: inline-block; */
+
+}
+.item1 {
+    background-color: aqua;
+}
+.item2 {
+    background-color: bisque;
+    height: 250px;
+}
+.item3 {
+    background-color: blueviolet;
+    width: 300px;
+}
+.item4 {
+    background-color: darkblue;
+}
+.wrapper{
+    display: flex;
+    /* flex-direction: column-reverse; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* align-items: center; */
+    /* gap:  40px; */
+    /* flex-wrap: wrap; */
+}
