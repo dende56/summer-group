@@ -1,0 +1,19 @@
+https://css.in.ua/css/property/margin
+https://css.in.ua/css/property/border
+https://css.in.ua/css/property/height
+https://css.in.ua/css/property/width
+https://css.in.ua/css/property/text-align
+https://css.in.ua/css/property/background-color
+https://css.in.ua/css/property/background-image
+
+font-size:23px;
+color:#000;
+
+https://css.in.ua/html/tag/link
+https://css.in.ua/html/tag/img
+https://css.in.ua/css/selector/class
+
+
+!! Замітка:
+
+На сайтах розказано дуже детально, опрацюйте те що проходили :)
